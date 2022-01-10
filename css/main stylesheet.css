@@ -1,0 +1,188 @@
+body {
+	background-image: url("wallpaper.jpeg");
+	color: white;
+}
+
+h1 {
+	text-align: center;
+	font-family: verdana;
+	border: 3px solid #404040;
+	background-color: #474747;
+}
+
+h2 {
+	text-align: left;
+	font-family: verdana;
+}
+  
+
+p {
+	float: left;
+	font-family: verdana;
+	font-size: 18px;
+}
+
+div.frontimage {
+	position: absolute;
+  	left: 800px;
+	background-color: white;
+  	border: 4px solid white;
+}
+
+.RIP {
+	position: absolute;
+  	left: 1650px;
+	top: 175px;
+	background-color: white;
+  	border: 4px solid white;
+	width: 200px;
+	height: 200px;
+}
+
+.JonasText {
+	position: absolute;
+	left: 1650px;
+	top: 370px;
+	font-size: 18px;
+	font-family: verdana;
+
+}
+
+.prodigy {
+	position: absolute;
+	left: 1650px;
+	top: 425px;
+	background-color: white;
+  	border: 4px solid white;
+	width: 200px;
+	height: 200px;
+}
+
+.JosephText {
+	position: absolute;
+	left: 1650px;
+	top: 620px;
+	font-size: 18px;
+	font-family: verdana;
+}
+
+.legend {
+	position: absolute;
+	left: 1650px;
+	top: 675px;
+	background-color: white;
+  	border: 4px solid white;
+	width: 200px;
+	height: 200px;
+}
+
+.ThorText {
+	position: absolute;
+	left: 1650px;
+	top: 870px;
+	font-size: 18px;
+	font-family: verdana;
+}
+
+.list { 
+	position: absolute;
+	left: 1645px;
+	top: 100px;
+	font-weight: bold;
+	font-family: verdana;
+	font-size: 20px;
+}
+
+.z2samcaption {
+	position: absolute;
+	left: 10px;
+	top: 910px;
+	font-size: 15px;
+	font-style: italic;
+}
+
+.Home2Header {
+	clear: both;
+	position: absolute;
+	top: 970px;
+}
+
+.VS {
+	position: absolute;
+	left: 300px;
+	top: 1030px;
+	background-color: gray;
+  	border: 4px solid gray;
+	width: 640px;
+	height: 360px;
+}
+
+.VStext {
+	position: absolute;
+	left: 100px;
+	top: 1080px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.BR {
+	position: absolute;
+	right: 300px;
+	top: 1030px;
+	background-color: gray;
+  	border: 4px solid gray;
+	width: 640px;
+	height: 360px;
+}
+
+.BRtext {
+	position: absolute;
+	right: 70px;
+	top: 1080px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.Sprint {
+	position: absolute;
+	left: 300px;
+	top: 1405px;
+	background-color: gray;
+  	border: 4px solid gray;
+	width: 640px;
+	height: 360px;
+}
+
+.Solotext {
+	position: absolute;
+	left: 80px;
+	top: 1455px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.CTWC {
+	position: absolute;
+	right: 300px;
+	top: 1405px;
+	background-color: gray;
+  	border: 4px solid gray;
+	width: 640px;
+	height: 360px;
+}
+
+.CTWCtext {
+	position: absolute;
+	right: 50px;
+	top: 1455px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+
+
+
